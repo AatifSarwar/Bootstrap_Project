@@ -1,3 +1,2 @@
-# Bootstrap_Project 
-https://github.com/AatifSarwar/Bootstrap_Project
-Landing Page using HTML CSS and Bootstrap.
+# Landing_Page
+Landing Page using HTML CSS and Bootstrap.https://aatifsarwar.github.io/Bootstrap_Project/
